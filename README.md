@@ -20,14 +20,17 @@
 
 ```jsx
 cd server
+npm i
 npm run dev
 ```
 ```jsx
 cd web
+npm i
 npm run dev
 ```
 ```jsx
 cd mobile
+npm i
 npm start
 ```
 
